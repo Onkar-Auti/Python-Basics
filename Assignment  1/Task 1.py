@@ -1,3 +1,4 @@
+'''
 a = input('Enter the first number: ')
 b = input('Enter the second number: ')
 
@@ -13,3 +14,4 @@ print("Addition: ", add)
 print("Substraction: ", sub)
 print("Multiplication: ", mul)
 print("Division: ", div)
+'''
